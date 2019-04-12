@@ -1,2 +1,2 @@
 # hello-world
-exercise about git
+exercise about git- some changes about readme
